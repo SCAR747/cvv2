@@ -1,0 +1,263 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    overflow-x: hidden;
+}
+h1{
+    margin-top: 0;
+    color:  #227C70;
+    font-family: 'Sacramento', cursive;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #227C70;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+   background-color: #E9F8F9;
+   
+   font-size: x-large;
+   position: relative;
+}
+.middle-container{
+    width: 100%;
+    background-color: #E9F8F9;
+    position: relative;
+    height: 1800px;
+}
+
+
+
+.bottom-container{
+    background-color: #B5D5C5;
+    position: relative;
+    height: 180px;
+}
+
+
+
+
+.bottom-cloud{
+    position: relative;
+    right:200px;
+    top:150px;
+}
+.top-cloud{
+    position: relative;
+    left:200px;
+    top:130px;
+}
+.intro{
+    font-size: 60px;
+    position:relative;
+    top:150px;
+    
+}
+.para{
+    position:relative;
+    top:150px;
+}
+.pfp{
+    position:relative;
+    top: 100px;
+    height:180px;
+}
+.greetings{
+    position: relative;
+    top:130px;
+    font-size: 35px;
+    font-family:'Montserrat', sans-serif ;
+}
+.aspd{
+    color: black;
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top: 120px;
+}
+.hr{
+    position: relative;
+    width: 8%;
+    top:190px;
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: #227C70;
+}
+.skillsh1{
+    position:relative;
+    font-family:'Montserrat', sans-serif ;
+    top: 280px;
+}
+.prog{
+    position:relative;
+    top: 350px;
+    right:250px;
+    height:150px;
+}
+.des{
+    position:relative;
+    font-family: 'Poppins', sans-serif;
+    color: #227C70;
+    top: 180px;
+    left:180px;
+}
+.des1{
+    color: black;
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top: 180px;
+    left:180px;
+}
+.illus{
+    position:relative;
+    top: 350px;
+    right:200px;
+    height:70px;
+}
+.dev{
+    position:relative;
+    font-family: 'Poppins', sans-serif;
+    color: #227C70;
+    top: 240px;
+    right:250px;
+}
+.dev1{
+    color: black;
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top: 250px;
+    right:240px;
+}
+.smallprog{
+    position:relative;
+    top: 80px;
+    left:280px;
+    height:70px;
+}
+.ndprog{
+    position:relative;
+    top: 80px;
+    left:340px;
+    height:150px;
+}
+.ontime{
+    position:relative;
+    top: 300px;
+    right:400px;
+    height:150px;
+}
+.del{
+    position:relative;
+    font-family: 'Poppins', sans-serif;
+    color: #227C70;
+    top: 130px;
+    right:-160px;
+}
+.clock{
+    position:relative;
+    top: 280px;
+    left:-340px;
+    height:70px;
+}
+.del1{
+    color: black;
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top: 130px;
+    right:-160px;
+}
+.workforyou{
+    position:relative;
+    font-family:'Montserrat', sans-serif ;
+    top: 280px;
+}
+.freelance{
+    position:relative;
+    font-family: 'Poppins', sans-serif;
+    color: #227C70;
+    top: 300px;
+    
+}
+.freelance1{
+    color: black;
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top: 300px;
+}
+.linkedin{
+    font-size: 25px;
+    color: #227C70;
+    font-family: 'Righteous', cursive;
+    position: relative;
+    top:50px;
+    left:-70px;
+}
+.twitter{
+    font-size: 25px;
+    color: #227C70;
+    font-family: 'Righteous', cursive;
+    position: relative;
+    top:50px;
+    left:40px;
+}
+.msg{
+    font-size: 25px;
+    color: #227C70;
+    font-family: 'Righteous', cursive;
+    position: relative;
+    top:50px;
+    right:-150px;
+}
+.linke{
+    position: relative;
+    height:30px;
+    top:55px;
+    left:-440px;
+}
+.twitt{
+    position: relative;
+    height:30px;
+    top:55px;
+    left:-265px;
+}
+.messa{
+    position: relative;
+    height:30px;
+    top:55px;
+    left:-100px;
+}
+.last{
+    position: relative;
+    font-family: 'Noto Serif Khojki', serif;
+    top:70px;
+}
+.about{
+    color: #227C70;
+    font-size: 20px;
+    position: relative;
+    font-family: 'Righteous', cursive;
+    left:400px;
+}
+.work{
+    color: #227C70;
+    font-size: 20px;
+    position: relative;
+    font-family: 'Righteous', cursive;
+    left:440px;
+}
+.contact{
+    color: #227C70;
+    font-size: 20px;
+    position: relative;
+    font-family: 'Righteous', cursive;
+    left:480px;
+}
