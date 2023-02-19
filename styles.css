@@ -194,6 +194,7 @@ h3{
     top: 300px;
 }
 .linkedin{
+    text-decoration: none;
     font-size: 25px;
     color: #227C70;
     font-family: 'Righteous', cursive;
@@ -201,7 +202,11 @@ h3{
     top:50px;
     left:-70px;
 }
+.linkedin:hover{
+    color: #E9F8F9;
+}
 .twitter{
+    text-decoration: none;
     font-size: 25px;
     color: #227C70;
     font-family: 'Righteous', cursive;
@@ -209,13 +214,20 @@ h3{
     top:50px;
     left:40px;
 }
+.twitter:hover{
+    color: #E9F8F9;
+}
 .msg{
+    text-decoration: none;
     font-size: 25px;
     color: #227C70;
     font-family: 'Righteous', cursive;
     position: relative;
     top:50px;
     right:-150px;
+}
+.msg:hover{
+    color: #E9F8F9;
 }
 .linke{
     position: relative;
@@ -241,23 +253,35 @@ h3{
     top:70px;
 }
 .about{
+    text-decoration: none;
     color: #227C70;
     font-size: 20px;
     position: relative;
     font-family: 'Righteous', cursive;
     left:400px;
 }
+.about:hover{
+    color: rgb(62, 211, 162);
+}
 .work{
+    text-decoration: none;
     color: #227C70;
     font-size: 20px;
     position: relative;
     font-family: 'Righteous', cursive;
     left:440px;
 }
+.work:hover{
+    color: rgb(62, 211, 162);
+}
 .contact{
+    text-decoration: none;
     color: #227C70;
     font-size: 20px;
     position: relative;
     font-family: 'Righteous', cursive;
     left:480px;
+}
+.contact:hover{
+    color: rgb(62, 211, 162);
 }
